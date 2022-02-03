@@ -31,7 +31,7 @@ public class Metode_Euler {
 	
 	public static void main(String[] args){
 		
-		Scanner sc = new Scanner(System.in);
+		Scanner  sc = new Scanner(System.in);
 		Metode_Euler r = new Metode_Euler();
 	
 		double sum = 0;
