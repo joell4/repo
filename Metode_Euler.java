@@ -26,7 +26,7 @@ public class Metode_Euler {
 
 	@Override
 	public String toString() {
-		return "Recursivitat [ " + num + " ]";
+		return "Recursivitat [" + num + "]";
 	}
 	
 	public static void main(String[] args){
